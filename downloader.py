@@ -4,7 +4,7 @@ import sys
 import subprocess as sp
 from bs4 import BeautifulSoup as bs
 
-api_key = 'AIzaSyB7FvMsX3Jz6OXgP3d1o2sDxTk8xWUv9m0'
+api_key = '***'
 
 csv_file_path = './population_kor_2018-10-01.csv'
 img_path = './img/'
